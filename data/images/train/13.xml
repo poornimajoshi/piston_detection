@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>13.jpg</filename>
+	<path>C:\Users\poorn\Pictures\Piston2\data\images\13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>piston</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>189</xmin>
+			<ymin>135</ymin>
+			<xmax>465</xmax>
+			<ymax>497</ymax>
+		</bndbox>
+	</object>
+</annotation>
